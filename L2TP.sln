@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CLI", "CLI\CLI.vcxproj", "{84705698-93F1-498D-A541-EFE55B3D74AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Driver", "Driver\Driver.vcxproj", "{CD502925-8888-4A09-8AD0-04B80A73FBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84705698-93F1-498D-A541-EFE55B3D74AA}.Debug|x64.ActiveCfg = Debug|x64
+		{84705698-93F1-498D-A541-EFE55B3D74AA}.Debug|x64.Build.0 = Debug|x64
+		{84705698-93F1-498D-A541-EFE55B3D74AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{84705698-93F1-498D-A541-EFE55B3D74AA}.Debug|x86.Build.0 = Debug|Win32
+		{84705698-93F1-498D-A541-EFE55B3D74AA}.Release|x64.ActiveCfg = Release|x64
+		{84705698-93F1-498D-A541-EFE55B3D74AA}.Release|x64.Build.0 = Release|x64
+		{84705698-93F1-498D-A541-EFE55B3D74AA}.Release|x86.ActiveCfg = Release|Win32
+		{84705698-93F1-498D-A541-EFE55B3D74AA}.Release|x86.Build.0 = Release|Win32
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Debug|x64.ActiveCfg = Debug|x64
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Debug|x64.Build.0 = Debug|x64
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Debug|x64.Deploy.0 = Debug|x64
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Debug|x86.Build.0 = Debug|Win32
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Debug|x86.Deploy.0 = Debug|Win32
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Release|x64.ActiveCfg = Release|x64
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Release|x64.Build.0 = Release|x64
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Release|x64.Deploy.0 = Release|x64
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Release|x86.ActiveCfg = Release|Win32
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Release|x86.Build.0 = Release|Win32
+		{CD502925-8888-4A09-8AD0-04B80A73FBBD}.Release|x86.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB237DBF-4D3F-4638-8D42-A931AC5BE4CF}
+	EndGlobalSection
+EndGlobal
